@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MDBT")(type "KiCad")(uri "${KIPRJMOD}/MDBT40-ANT-P256V3/MDBT40-ANT-P256V3.kicad_sym")(options "")(descr ""))
+  (lib (name "L9110")(type "KiCad")(uri "${KIPRJMOD}/L9110S/L9110S.kicad_sym")(options "")(descr ""))
+)
